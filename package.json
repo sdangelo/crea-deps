@@ -1,0 +1,28 @@
+{
+  "name": "crea-deps",
+  "version": "0.0.0",
+  "description": "Autodependencies for Crea",
+  "main": "crea-deps.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sdangelo/crea-deps.git"
+  },
+  "keywords": [
+    "crea",
+    "dependency",
+    "build",
+    "make"
+  ],
+  "author": "Stefano D'Angelo <zanga.mail@gmail.com> (http://sdangelo.github.io/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sdangelo/crea/issues",
+    "email": "zanga.mail@gmail.com"
+  },
+  "peerDependencies": {
+    "crea": "0.0.x"
+  }
+}
