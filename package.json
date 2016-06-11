@@ -19,7 +19,7 @@
   "author": "Stefano D'Angelo <zanga.mail@gmail.com> (http://sdangelo.github.io/)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sdangelo/crea/issues",
+    "url": "https://github.com/sdangelo/crea-deps/issues",
     "email": "zanga.mail@gmail.com"
   },
   "peerDependencies": {
